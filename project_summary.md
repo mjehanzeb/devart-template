@@ -6,7 +6,11 @@ BE AWARE
 - Majid, Behboudi, Magicville
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+This project tackles the issue of “awareness” inspired by “Tragedy of the Commons” which implies the individual impact on the whole. Our project would provoke ones awareness on the implications(impact) of ones action on to the whole. 
+
+In a time of  virtual networks where one sees his/her direct impact on to the whole(network), one should start questioning ones action on the physical world. for example if I drive my car I am producing CO2 which pollutes the air for everyone.
+
+The installation will be running simultaneously in more than 4 spaces preferably to inform ones actions and implications and to provoke one to ask his/herself on the consequences.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
