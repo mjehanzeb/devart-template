@@ -1,16 +1,18 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Kinect APIs"
         ],
         "platforms": [
-            "insert platforms"
+            "Google Compute Engine"
         ],
         "toolkits": [
-            "insert toolkits"
+             "Python",
+             "Mongodb"
         ]
     },
     "themes": [
-        "insert themes"
+        "Social",
+        "Impact"
     ]
 }
